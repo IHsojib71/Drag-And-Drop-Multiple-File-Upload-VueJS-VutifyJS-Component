@@ -5,7 +5,7 @@ call from parent component
 
 <DragDrop :multiple="true" @filesUploaded="processUpload($event)"></DragDrop>
 
-get responses and do your logic for file uploads here 
+get responses and do your logic for file uploads here, you will get your files in this val 
 
 processUpload(val){
 }
