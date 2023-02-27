@@ -1,4 +1,4 @@
-# Drag-And-Drop-Multiple-File-Upload-VueJS-VutifyJS-
+I have followed this post and modified this according to my needs
 
 call from parent component
 
