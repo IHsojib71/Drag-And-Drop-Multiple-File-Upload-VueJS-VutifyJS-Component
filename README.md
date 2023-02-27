@@ -1,4 +1,5 @@
 I have followed this post and modified this according to my needs
+https://george-hadjigeorgiou97.medium.com/step-by-step-custom-drag-drop-upload-component-in-vuetify-vue-2-43c99794643d
 
 call from parent component
 
